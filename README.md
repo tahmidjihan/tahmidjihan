@@ -17,7 +17,7 @@ I’m a full-stack web developer focused on building efficient, high-quality web
 -<div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,git,github,figma,netlify,vercel" />
   <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,firebase," />
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,firebase,npm" />
 
           
 </div>

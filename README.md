@@ -31,7 +31,7 @@ I’m a full-stack web developer focused on building efficient, high-quality web
 ---
 
 ## 📈 GitHub Stats  
-![Your stats here](https://github-readme-stats.vercel.app/api?username=tahmidjihan&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidjihan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 

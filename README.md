@@ -31,8 +31,6 @@ I’m a full-stack web developer focused on building efficient, high-quality web
 ---
 
 ## 📈 GitHub Stats  
-![Your github contribution snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidjihan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 

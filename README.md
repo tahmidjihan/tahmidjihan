@@ -33,12 +33,6 @@ I’m a full-stack web developer focused on building efficient, high-quality web
 
 ---
 
-## 🌱 Current Focus  
-- Running **Naviqate** and helping businesses kickstart their online presence.  
-- Expanding my knowledge in full-stack development, project management, and business growth.
-
----
-
 ## 📈 GitHub Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidjihan&layout=donut&theme=dracula)]
 ---
@@ -48,6 +42,14 @@ I’m a full-stack web developer focused on building efficient, high-quality web
 
 
 ## 📬 Get in Touch  
-- **Email**: tahmidjihan@yahoo.com  
+- **Email**: tahmidjihan@yahoo.com
+
+---
+  
+- <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
+</div>
 
 

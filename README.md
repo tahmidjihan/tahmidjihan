@@ -1,3 +1,7 @@
+<div align="center">
+    <img height="400" src="./banner.png" />
+</div>
+
 ## Hi there 👋
 # 👋 Welcome to my GitHub!
 

@@ -2,8 +2,7 @@
     <img height="300" src="./banner.png" />
 </div>
 
-## Hi there 👋
-# 👋 Welcome to my GitHub!
+# 👋 HI! there! I am Tahmid and Welcome to my GitHub!
 
 ---
 

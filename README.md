@@ -45,12 +45,6 @@ I’m a full-stack web developer focused on building efficient, high-quality web
 ---
 
 
-## 💼 Current Project  
-- **Naviqate**: A service that helps new businesses build and scale their websites.  
-- Check it out: [Naviqate Website](yourwebsite.com)
-
----
-
 ## 📬 Get in Touch  
 - **Email**: tahmidjihan@yahoo.com  
 

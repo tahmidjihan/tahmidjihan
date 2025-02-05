@@ -12,10 +12,11 @@ I’m a full-stack web developer focused on building efficient, high-quality web
 ---
 
 ## 💻 Skills & Technologies  
-- **Frontend**: HTML, CSS, JavaScript, React  
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Full-Stack**: Next.js
 - **Backend**: Node.js, Express, MongoDB  
-- **Tools**: GitHub, VS Code, Docker  
-- **Design**: Figma, Photoshop (training a team member in design)
+- **Tools**: GitHub, VS Code
+- **Design**: Figma
 - ### Skills:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,next" />

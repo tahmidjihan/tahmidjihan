@@ -39,7 +39,7 @@ I’m a full-stack web developer focused on building efficient, high-quality web
 ---
 
 ## 📈 GitHub Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidjihan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidjihan&layout=donut&theme=dracula)]
 ---
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=tahmidjihan&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidjihan&show_icons=true&theme=dracula)

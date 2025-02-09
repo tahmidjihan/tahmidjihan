@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 About Me  
-I’m a full-stack web developer focused on building efficient, high-quality websites and solutions for businesses. I’m the founder of **Naviqate**, a web development service aimed at helping new businesses get online quickly and professionally.
----
+-I'm Tahmid, a Full-Stack Web Developer who loves building sleek and high-performance digital experiences. My coding journey started with curiosity and turned into a passion for crafting smooth, efficient web solutions.---
+
 [My portfolio](https://tahmidjihan.vercel.app/)
 --
 ## 💻 Skills & Technologies  

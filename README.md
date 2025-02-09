@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 I’m a full-stack web developer focused on building efficient, high-quality websites and solutions for businesses. I’m the founder of **Naviqate**, a web development service aimed at helping new businesses get online quickly and professionally.
-
+(My Portfolio)[https://tahmidjihan.vercel.app/]
 ---
 
 ## 💻 Skills & Technologies  

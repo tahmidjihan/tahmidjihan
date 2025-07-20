@@ -24,7 +24,7 @@ I'm Tahmid, a Full-Stack Web Developer who loves building sleek and high-perform
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,next,postgres,vite" />
   <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,supabase,react-router" />    
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,supabase" />    
 </div>
 
 ---

@@ -17,14 +17,14 @@ I'm Tahmid, a Full-Stack Web Developer who loves building sleek and high-perform
 ## 💻 Skills & Technologies  
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Full-Stack**: Next.js
-- **Backend**: Node.js, Express, MongoDB  
+- **Backend**: Node.js, Express, MongoDB , PostgresSQL, Supabase, JWT, Vite
 - **Tools**: GitHub, VS Code
 - **Design**: Figma
 - ### Skills:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,next,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,next,postgres,vite" />
   <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,supabase" />    
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,supabase,react-router" />    
 </div>
 
 ---

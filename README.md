@@ -31,7 +31,7 @@ I'm Tahmid, a Full-Stack Web Developer who loves building sleek and high-perform
 
 - ### Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,npm,git,github,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,npm,git,github,vercel,netlify,postman" />
 </div>
 
 ---

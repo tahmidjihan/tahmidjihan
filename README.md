@@ -22,9 +22,9 @@ I'm Tahmid, a Full-Stack Web Developer who loves building sleek and high-perform
 - **Design**: Figma
 - ### Skills:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,next" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,next,postgres" />
   <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb" />    
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,supabase" />    
 </div>
 
 ---

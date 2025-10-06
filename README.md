@@ -24,14 +24,14 @@ I'm Tahmid, a Full-Stack Web Developer who loves building sleek and high-perform
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,next,postgres,vite" />
   <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,supabase" />    
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,supabase" />   
 </div>
 
 ---
 
 - ### Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,npm,git,github,vercel,netlify,postman,linux,ubuntu,arch" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,npm,git,github,vercel,netlify,postman,linux,ubuntu" />
 </div>
 
 ---

@@ -49,9 +49,6 @@ I'm Tahmid, a Full-Stack Web Developer who loves building sleek and high-perform
 
 ---
   
-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
-  <img width="12" />
 </div>
 
 ---

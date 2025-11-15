@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
     <img src="./banner.png" />
-</div>
+</div> -->
 
 # 👋 HI! there! I am Tahmid and Welcome to my GitHub!
 

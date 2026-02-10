@@ -29,10 +29,13 @@ I'm Tahmid, a Full-Stack Web Developer who loves building sleek and high-perform
 
 ---
 
-## 📈 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidjihan&layout=donut&theme=dracula)
+## 📈 GitHub Stats 
 ---
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=tahmidjihan&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=tahmidjihan&theme=dark)](https://git.io/streak-stats)
+</div>
+
+
 ---
 
 

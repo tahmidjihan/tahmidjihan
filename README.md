@@ -31,9 +31,8 @@ I'm Tahmid, a Full-Stack Web Developer who loves building sleek and high-perform
 
 ## 📈 GitHub Stats 
 ---
-<div align="center">
   [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=tahmidjihan&theme=dark)](https://git.io/streak-stats)
-</div>
+
 
 
 ---

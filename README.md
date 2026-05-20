@@ -16,17 +16,18 @@ I'm a **Full-Stack Developer** from Bangladesh who loves building scalable SaaS 
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,prisma" />
 </div>
 
-#### AI & Integrations
-<div>
-  <img src="https://skillicons.dev/icons?i=openai" />
-  &nbsp;Claude API &nbsp;·&nbsp; OpenRouter API &nbsp;·&nbsp; Stripe &nbsp;·&nbsp; Polar.sh
-</div>
+
 
 #### Tools & Platforms
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,linux,figma,vscode,postman" />
 </div>
 
+#### AI & Integrations
+<div>
+  <img src="https://skillicons.dev/icons?i=openai" />
+  &nbsp;Claude API &nbsp;·&nbsp; OpenRouter API &nbsp;·&nbsp; Stripe &nbsp;·&nbsp; Polar.sh
+</div>
 ---
 
 ## 🚀 Projects
